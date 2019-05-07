@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UserAppFinalProject</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_list">Options</string>
+
+    <string name="simulation_key">pref_simulation</string>
+    <string name="simulation_title">Simulation/GPS</string>
+    <string name="simulation_description">If is left unchecked, GPS mode is active (only if GPS is active) </string>
+    <string name="simulation_default_value">false</string>
+
+    <string name="font_size_key">pref_font_size</string>
+    <string name="font_size_title">Font size</string>
+    <string name="font_size_description">Coose a font size</string>
+    <string name="font_size_default_value">20</string>
+
+    <string name="transparency_key">pref_transparency</string>
+    <string name="transparency_title">Transparency</string>
+    <string name="transparency_description">Set transparency</string>
+    <string name="transparency_default_value">155</string>
+
+    <string name="color_key">pref_color</string>
+    <string name="color_title">Color</string>
+    <string name="color_description">Set color</string>
+    <string name="color_default_value">0</string>
+</resources>

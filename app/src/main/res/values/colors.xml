@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="myBlueProject">#4472c4</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="shapeTransparency0">#FF282525</color><!-- circle shape transparency 0%-->
+    <color name="shapeTransparency50">#37282525</color><!-- circle shape transparency 50%-->
+    
+    <color name="textColorWhite">#FFFFFFFF</color><!-- textBox text color white -->
+    <color name="textColorBlack">#FF000000</color><!-- textBox text color black-->
+    <color name="textColorRed">#FFA40003</color><!-- textBox text color red-->
+    <color name="textColorBlue">#FF00059B</color><!-- textBox text color blue-->
+</resources>

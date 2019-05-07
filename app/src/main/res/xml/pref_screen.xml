@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="pref_font_size"
+        android:title="@string/font_size_title"
+        android:dialogTitle="Select a font size"
+        android:entries="@array/font_size_items"
+        android:entryValues="@array/font_size_values"
+        android:defaultValue="@string/font_size_default_value"/>
+
+    <ListPreference
+        android:key="pref_transparency"
+        android:title="@string/transparency_title"
+        android:dialogTitle="Select the transparency level"
+        android:entries="@array/transparency_items"
+        android:entryValues="@array/transparency_values"
+        android:defaultValue="@string/transparency_default_value"/>
+
+    <ListPreference
+        android:key="pref_color"
+        android:title="@string/color_title"
+        android:dialogTitle="Set the color"
+        android:entries="@array/color_items"
+        android:entryValues="@array/color_values"
+        android:defaultValue="@string/color_default_value"/>
+
+    <CheckBoxPreference
+        android:key="pref_simulation"
+        android:title="@string/simulation_title"
+        android:summary="@string/simulation_description"
+        android:defaultValue="@string/simulation_default_value" />
+
+
+</PreferenceScreen>
